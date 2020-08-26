@@ -1,0 +1,32 @@
+.top-bar-song-list{
+    background: #a3ab80;
+    border: 1px #a3ab80 solid;
+    color: #fff;
+    padding: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+.search-box{
+    text-align: right;
+    margin-top: 15px;
+}
+.song-details{
+    color: grey;
+}
+.song-details:hover{
+  
+    color: #2185d0;
+}
+.content-song-details{
+    color: black;
+}
+
+.analytics-btn{
+    text-align: left;
+    position: relative;
+    bottom: 35px;
+    left: 5px;
+}
+.analytics-div{
+    margin-top:50px ;
+}

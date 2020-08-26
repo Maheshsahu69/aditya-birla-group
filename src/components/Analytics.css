@@ -1,0 +1,33 @@
+.top-bar-analytics{
+    background: #d4ae69;
+    border: 1px #a3ab80 solid;
+    color: #fff;
+    padding: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+.go-back-song-list-btn{
+    margin-top: 17px;
+    margin-bottom: 20px;
+}
+
+/* .analytics-content-div{
+    border: 1px solid black;
+    padding: 5px;
+    padding-top:40px;
+    padding-bottom:20px;
+
+} */
+.part1-div{
+    border: 1px solid black;
+    width: 49.5%;
+    margin-bottom:2px;
+    float: left;
+}
+.part2-div{
+    border: 1px solid black;
+    width: 49.5%;
+    float: right;
+    position: relative;
+    /* bottom: 155px; */
+}
